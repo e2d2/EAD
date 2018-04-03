@@ -1,0 +1,1964 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="../styles/style.xsl" ?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../dtds/ead.dtd">
+<ead>
+    <eadheader repositoryencoding="iso15511" relatedencoding="MARC21" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="nic" countrycode="us" publicid="-//Cornell University::Cornell University Library::Division of Rare and Manuscript Collections//TEXT(US::NIC::RMM08200::Guide to the Rose Goldsen archive of new media art)//EN">RMM08200.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Rose Goldsen archive of new media art. <date/></titleproper>
+                <titleproper type="sort">Goldsen, Rose archive of new media art</titleproper>
+                <author>Compiled by RMC Staff</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Division of Rare and Manuscript Collections, Cornell University Library</publisher>
+                <date>September 2015</date>
+            </publicationstmt>
+            <notestmt>
+                <note audience="internal">
+                    <p>
+                        <subject>human</subject><subject>finart</subject>
+                    </p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded by Marcie Farwell, <date>September 2015</date></creation>
+        </profiledesc>
+    </eadheader>
+    <frontmatter>
+        <titlepage>
+            <titleproper>Guide to the Rose Goldsen Archive Of New Media Art,<lb/><date type="inclusive" encodinganalog="245$f"/>1992-</titleproper>
+            <num>Collection Number: 8200</num>
+            <publisher>Division of Rare and Manuscript Collections <lb/>Cornell University Library</publisher>
+            <list type="deflist">
+                <defitem>
+                    <label>Contact Information:</label>
+                    <item> Division of Rare and Manuscript Collections<lb/> 2B Carl A. Kroch Library<lb/> Cornell University<lb/> Ithaca, NY 14853<lb/> (607) 255-3530<lb/> Fax: (607) 255-9524<lb/><extref href="mailto:rareref@cornell.edu">rareref@cornell.edu</extref><lb/><extref href="http://rmc.library.cornell.edu">http://rmc.library.cornell.edu</extref><lb/></item>
+                </defitem>
+                <defitem>
+                    <label>Compiled by:</label>
+                    <item>RMC Staff</item>
+                </defitem>
+                <defitem>
+                    <label>Date completed:</label>
+                    <item>September 2015</item>
+                </defitem>
+                <defitem>
+                    <label>EAD encoding:</label>
+                    <item>Marcie Farwell, October 2015</item>
+                </defitem>
+                <defitem>
+                    <label>Date modified:</label>
+                    <item>Margaret Nichols, November 2016</item>
+                </defitem>
+            </list>
+            <date>© 2015 Division of Rare and Manuscript Collections, Cornell University Library</date>
+        </titlepage>
+    </frontmatter>
+    <archdesc level="collection">
+        <did>
+            <head id="a1">DESCRIPTIVE SUMMARY</head>
+            <unittitle label="Title:" encodinganalog="MARC 245">Rose Goldsen archive of new media art. </unittitle>
+            <unitid label="Collection Number:">8200</unitid>
+            <origination label="Creator:"/>
+            <physdesc label="Quantity:" encodinganalog="MARC 300"/>
+            <physdesc label="Forms of Material:">Computer media and printed materials.</physdesc>
+            <repository label="Repository:">Division of Rare and Manuscript Collections, Cornell University Library</repository>
+            <abstract label="Abstract:">The Rose Goldsen Archive of New Media Art serves as a research repository of new media art and resources.</abstract>
+            <langmaterial label="Language:">Collection material in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+        </did>
+        <scopecontent>
+            <head id="a3">COLLECTION DESCRIPTION</head>
+            <p>The Rose Goldsen Archive of New Media Art serves as a research repository of new media art and resources. The curatorial vision emphasizes digital interfaces and artistic experimentation by international, independent artists. Designed as an experimental center of research and creativity, the Goldsen Archive includes materials by individual artists and collaborates on conceptual experimentation and archival strategies with international curatorial and fellowship projects.</p>
+        </scopecontent>
+        <odd type="notes">
+            <head id="a6">NOTES</head>
+            <p>All the items in this guide have been cataloged individually and must be requested from their own catalog record. Many are subject to access and use restrictions due to their fragile digital states.</p>
+        </odd>
+        <dsc type="combined">
+            <head>CONTAINER LIST</head>
+
+            <c01 level="series">
+                <did>
+                    <unittitle>Artwork Cataloged Under Collection 8200</unittitle>
+                </did>
+                <scopecontent>
+                    <p><emph render="bold">This is the general collection for the Rose Goldsen Archive of New Media Art. To request an item from this collection please search the catalog for that item.</emph></p>
+                </scopecontent>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-136</unitid>
+                        <unittitle>Muntadas : media, architecture, installations</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Muntadas</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1996">1996</unitdate>
+                        <unitid>Archives 8200 CD-137</unitid>
+                        <unittitle>Book of shadows</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Biggs, Simon</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-138</unitid>
+                        <unittitle>Great Wall of China</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Biggs, Simon</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-139</unitid>
+                        <unittitle>Moments de Jean-Jacques Rousseau confessions et rêveries</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Boissier, Jean-Louis</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1995">1995</unitdate>
+                        <unitid>Archives 8200 CD-140</unitid>
+                        <unittitle>Cyberflesh girlmonster</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-141</unitid>
+                        <unittitle>In my gash</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Dement, Linda</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-142</unitid>
+                        <unittitle>Shock in the ear</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Neumark, Norie</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1997">1997</unitdate>
+                        <unitid>Archives 8200 CD-143</unitid>
+                        <unittitle>Metabody phase 1</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-144</unitid>
+                        <unittitle>Bits of paper books in digital form</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Holleley, Douglas</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-145</unitid>
+                        <unittitle>Re-reading the book a photographic analysis of Albrecht Dürer's Hieren sind begriffen vier Bücher von menschlicher Proportion</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Holleley, Douglas</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1997">1997</unitdate>
+                        <unitid>Archives 8200 CD-146</unitid>
+                        <unittitle>Mauve desert a fiction in translation for CD-ROM</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-147</unitid>
+                        <unittitle>World wide web/million man march</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Woolery, Reginald</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-148</unitid>
+                        <unittitle>World wide web/million man march</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Woolery, Reginald</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-150</unitid>
+                        <unittitle>Immemory a CD-ROM</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Marker, Chris</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-151</unitid>
+                        <unittitle>Marie-Jo Lafontaine installations vidéos, 1979-1999</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Lafontaine, Marie-Jo</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1996">1996</unitdate>
+                        <unitid>Archives 8200 CD-152</unitid>
+                        <unittitle>Beyond</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Beloff, Zoe</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-153</unitid>
+                        <unittitle>Where where there there where</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Beloff, Zoe</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-154</unitid>
+                        <unittitle>Interactive portfolio</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Zellen, Jody</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1994">1994</unitdate>
+                        <unitid>Archives 8200 CD-155</unitid>
+                        <unittitle>Anecdoted archive from the cold war : according to the floor plans of the former Hungarian Worker's Movement (Propoganda) Museum</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Legrady, George</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1993">1993</unitdate>
+                        <unitid>Archives 8200 CD-156</unitid>
+                        <unittitle>She loves it, she loves it not women and technology</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tamblyn, Christine</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1995">1995</unitdate>
+                        <unitid>Archives 8200 CD-157</unitid>
+                        <unittitle>Mistaken identities</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tamblyn, Christine</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-158</unitid>
+                        <unittitle>Borderland</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1996">1996</unitdate>
+                        <unitid>Archives 8200 CD-159</unitid>
+                        <unittitle>Nazi-loop</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Breder, Hans</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 CD-160</unitid>
+                        <unittitle>Liquidation photoroman aléatoire</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Lefebvre, Michel</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 CD-161</unitid>
+                        <unittitle>Am I a natural history museum?</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Kelly, Kevin Barry</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-162</unitid>
+                        <unittitle>Encoded eye, the archive and its engine house David Tomas, 1998-2000</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-163</unitid>
+                        <unittitle>Fantastic prayers</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-164</unitid>
+                        <unittitle>Divine Comedy digital</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Kärkkäinen, Aarre</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1996">1996</unitdate>
+                        <unitid>Archives 8200 CD-165</unitid>
+                        <unittitle>Virtual metropolis</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-166</unitid>
+                        <unittitle>Kiyoshi Furukawa. Masaki Fujihata. Wolfgang Münch small fish</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Furukawa, Kiyoshi, Masaki Fujihata, Wolfgang Münch</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-167</unitid>
+                        <unittitle>Tamás Waliczky focusing</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Waliczky, Tamás</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-168</unitid>
+                        <unittitle>Montréal télégraphe le son iconographe</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1997">1997</unitdate>
+                        <unitid>Archives 8200 CD-170</unitid>
+                        <unittitle>Little movies prolegomena for digital cinema</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Manovich, Lev</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-170</unitid>
+                        <unittitle>Soft cinema ambient narrative</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Manovich, Lev</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate>200?</unitdate>
+                        <unitid>Archives 8200 CD-171</unitid>
+                        <unittitle>Poesías animadas de ayer y hoy</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Ardévol, Alvaro</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-172</unitid>
+                        <unittitle>Web DQ Don Quijote en Barcelona</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Casanova, Cristina</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-173</unitid>
+                        <unittitle> Virtualidade sabia (Sabiá virtuality)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Pinto, Regina Célia</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-174</unitid>
+                        <unittitle>Bibliotheca das maravilhas (Library of marvels)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Pinto, Regina Célia</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-175</unitid>
+                        <unittitle>Espoo-Alexanderplatz</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Kärkkäinen, Aarre</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-176</unitid>
+                        <unittitle>Ocular convergence</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Goldfarb, Brian</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-177</unitid>
+                        <unittitle>Electric leak the north of it</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Office for Contemporary Art Norway</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-178</unitid>
+                        <unittitle>Esoth eric off-line/on-line project</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Man, Calin</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1997">1997</unitdate>
+                        <unitid>Archives 8200 CD-179</unitid>
+                        <unittitle>Advent</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Gillman, Clive</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 CD-180</unitid>
+                        <unittitle>Home project</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Barbier, Annette</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-181</unitid>
+                        <unittitle>As de bastos, tijeras en cruz</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Alvarez, Julián</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 CD-182</unitid>
+                        <unittitle>Mixed greens a do-it-yourself-movie about identity, belonging, and what we desire</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Citron, Michelle</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-184</unitid>
+                        <unittitle>Web XXX manual of leisure and licentiousness</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Casanova, Cristina</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 CD-185</unitid>
+                        <unittitle>Cocktails &amp; appetizers</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Citron, Michelle</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-186</unitid>
+                        <unittitle>As American as apple pie food, sex, family</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Citron, Michelle</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-187</unitid>
+                        <unittitle>Vamos a contar mentiras (Let's tell lies)</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Casanova, Cristina.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-188</unitid>
+                        <unittitle>Night in the chapel</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>FMOL Trio.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-189</unitid>
+                        <unittitle>Live at Metrònom</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>FMOL Trio.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 CD-190</unitid>
+                        <unittitle>Köln concert</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>FMOL Trio.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 CD-191</unitid>
+                        <unittitle>Lago mar algo barco chuva uma experiência em net.poesia</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Antonio, Jorge Luiz.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-192</unitid>
+                        <unittitle>Beyond Manzanar</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Thiel, Tamiko.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-193</unitid>
+                        <unittitle>Life after wartime</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Gibson, Ross</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 CD-194</unitid>
+                        <unittitle>Solo cauce</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Baranda, María.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-195</unitid>
+                        <unittitle>Courier a digital video</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tashiro, C. S. (Charles Shiro)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-196</unitid>
+                        <unittitle>Little movies</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tashiro, C. S. (Charles Shiro)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-197</unitid>
+                        <unittitle>Work of art</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-198</unitid>
+                        <unittitle>Donald Rodney autoicon v1.0</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Rodney, Donald, 1961-1998.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-199</unitid>
+                        <unittitle>Chinese whisper 3 an interactive performance at studio Eickholt, New York, August 28, 2002</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Lanfermeijer, Ruud.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-200</unitid>
+                        <unittitle>No accommodation the remix</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>DJ Spooky That Subliminal Kid.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1997">1997</unitdate>
+                        <unitid>Archives 8200 CD-201</unitid>
+                        <unittitle>LTK live</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>LTK Commune (Musical group)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 CD-202</unitid>
+                        <unittitle>Waiting for Julius a digital video</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tashiro, C. S. (Charles Shiro)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-203</unitid>
+                        <unittitle>Caprice a digital video</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tashiro, C. S. (Charles Shiro)</p>
+                    </scopecontent>
+                </c02>
+
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-205</unitid>
+                        <unittitle>Babylon Ministry of Misinformation</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>And, Miekal.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-206</unitid>
+                        <unittitle>Realpolitik project</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Calovski, Yane.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 CD-207</unitid>
+                        <unittitle>Eleven angles</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Colorform (Musician).</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate>200u</unitdate>
+                        <unitid>Archives 8200 CD-208</unitid>
+                        <unittitle>Groupe Molior</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Groupe Molior (Group of artists)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-211</unitid>
+                        <unittitle>Quack-project</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Dr. Quack.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-212</unitid>
+                        <unittitle>Rosalind Brodsky and the satellites of Lvov</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Treister, Suzanne</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 CD-213</unitid>
+                        <unittitle>RK</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Kramer, Roger (Artist)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-214</unitid>
+                        <unittitle>World Wide catalogue</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 CD-2149</unitid>
+                        <unittitle>Sound art : beyond music, between categories</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Licht, Alan.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-239</unitid>
+                        <unittitle>Culture vs. the Martians</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 CD-240</unitid>
+                        <unittitle>#FFFFFF</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Jones, Art.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 CD-241</unitid>
+                        <unittitle>Archival quality</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tamblyn, Christine.</p>
+                    </scopecontent>
+                </c02>
+
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1996">1996</unitdate>
+                        <unitid>Archives 8200 CD-242</unitid>
+                        <unittitle>Human body an invisible ecosystem</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tacha, Athena</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1997">1997</unitdate>
+                        <unitid>Archives 8200 CD-243</unitid>
+                        <unittitle>Mouchette</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-254</unitid>
+                        <unittitle>Raw music material : electronic music DJs today</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-255</unitid>
+                        <unittitle>No other symptoms : time traveling with Rosalind Brodsky</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Treister, Suzanne</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-256</unitid>
+                        <unittitle>Fig trees</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Greyson, John</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-257</unitid>
+                        <unittitle>Retina burn</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Polli, Andrea.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 CD-258</unitid>
+                        <unittitle>Calling to mind</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Thorington, Helen.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-259</unitid>
+                        <unittitle>Aural cultures</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1997">1997</unitdate>
+                        <unitid>Archives 8200 CD-260</unitid>
+                        <unittitle>Karā azu a konseputo : dejitaru jidai no shikisairon</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-261</unitid>
+                        <unittitle>Family in Brussels</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Akerman, Chantal.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 CD-262</unitid>
+                        <unittitle>Site specific sound</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>LaBelle, Brandon.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-263</unitid>
+                        <unittitle>Sonic process : une nouvelle géographie des sons</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-264</unitid>
+                        <unittitle>Over/time</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Bertolo, Diane.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-265</unitid>
+                        <unittitle>Atmospherics/weather works</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Polli, Andrea.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 CD-266</unitid>
+                        <unittitle>Nouveau Western, a.k.a. Alula Price</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Halpern, Tal.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 CD-267</unitid>
+                        <unittitle>Fleeting traces in blank spaces : animation series</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Nudelman, Mike.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 CD-268</unitid>
+                        <unittitle>Fleeting traces in blank spaces : longer version</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Nudelman, Mike.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-269</unitid>
+                        <unittitle>Improvisation technologies a tool for the analytical dance eye</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate>Undated</unitdate>
+                        <unitid>Archives 8200 CD-270</unitid>
+                        <unittitle>Postcard from Tunis v[ersion] 2.0.</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Pryor, Sally.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1992">1992</unitdate>
+                        <unitid>Archives 8200 CD-271</unitid>
+                        <unittitle>Xchange</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Pryor, Sally.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 CD-275</unitid>
+                        <unittitle>Secret hotel : Janet Cardiff + George Bures Miller</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 CD-337</unitid>
+                        <unittitle>Exposition sauvage</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Cahen, Xavier.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-338</unitid>
+                        <unittitle>Déjouer l'image : créations électroniques et numériques</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Duguet, Anne-Marie</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 CD-339</unitid>
+                        <unittitle>Interagir avec les technologies numériques</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 CD-340</unitid>
+                        <unittitle>Vida 9.0 Arte y Vida Artificial, convocatoria 2006 = 2006 call for participation</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Concurso Internacional de Arte y Vida Artificial (2006)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1996">1996</unitdate>
+                        <unitid>Archives 8200 CD-341</unitid>
+                        <unittitle>Just from Cynthia</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Sorbelli, Alberto.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 CD-343</unitid>
+                        <unittitle>Christof Migone--sound voice perform</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Migone, Christof.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1997">1997</unitdate>
+                        <unitid>Archives 8200 CD-344</unitid>
+                        <unittitle>Actualité du virtuel actualizing the virtual</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1996">1996</unitdate>
+                        <unitid>Archives 8200 CD-345</unitid>
+                        <unittitle>Body and the object : Ann Hamilton, 1984-1996</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Hamilton, Ann</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 CD-481</unitid>
+                        <unittitle>Women in electronic music, 1977 new music for electronic and recorded media</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-556</unitid>
+                        <unittitle>7e Biennale d'art contemporain de Lyon : 18 septembre 2003-4 janvier 2004</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Biennale d'art contemporain (Lyon, France) (7th : 2003)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1992">1992</unitdate>
+                        <unitid>Archives 8200 CD-2033</unitid>
+                        <unittitle>Prix Ars Electronica 92</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 CD-2034</unitid>
+                        <unittitle>CyberArts 2002 digital musics</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-2035</unitid>
+                        <unittitle>Cyber arts 2000 Prix ars electronica : digital musics</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1995">1995</unitdate>
+                        <unitid>Archives 8200 CD-2036</unitid>
+                        <unittitle>Key</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Monk, Meredith.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1989">1989</unitdate>
+                        <unitid>Archives 8200 CD-2037</unitid>
+                        <unittitle>Prix 89</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Ars Electronica.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 CD-2038</unitid>
+                        <unittitle>Anthology of noise &amp; electronic music</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 CD-2039</unitid>
+                        <unittitle>Anthology of noise &amp; electronic music</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate>Undated</unitdate>
+                        <unitid>Archives 8200 CD-204</unitid>
+                        <unittitle>Literature nation + many others</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>And, Miekal.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 CD-2040</unitid>
+                        <unittitle>Anthology of noise &amp; electronic music</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 CD-2410</unitid>
+                        <unittitle>Judd</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Vitiello, Stephen.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 CD-2411</unitid>
+                        <unittitle>Composers Inside Electronics</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Composers Inside Electronics.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 CD-3244-3245</unitid>
+                        <unittitle> INFOS '00 : seminar INFOS '00 : net.art</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph> INFOS (2000 : Ljubljana)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 CD-3246</unitid>
+                        <unittitle>Ghost city</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Zellen, Jody</p>
+                    </scopecontent>
+                </c02>
+
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 DVD-100</unitid>
+                        <unittitle>Sally, or, The bubble burst</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Dove, Toni</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 DVD-101</unitid>
+                        <unittitle>No cum shot</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Scher, Julia.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2009">2009</unitdate>
+                        <unitid>Archives 8200 DVD-1012</unitid>
+                        <unittitle>Humans</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Daniels, David</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 DVD-1013</unitid>
+                        <unittitle>By design ambient works by three of the world's legendary creatives set to music</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 DVD-102</unitid>
+                        <unittitle>No, I never lipsync'd</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Scher, Julia.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 DVD-103</unitid>
+                        <unittitle>Carrizo quartet seismic memory along the San Andreas fault</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>McPhee, Christina.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2009">2009</unitdate>
+                        <unitid>Archives 8200 DVD-1035</unitid>
+                        <unittitle>Advanced beauty</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-1036</unitid>
+                        <unittitle>Coco Fusco I like girls in uniform</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 DVD-1037</unitid>
+                        <unittitle>Onedotzero_select DVD⁵ adventures in moving image</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 DVD-1038</unitid>
+                        <unittitle>Onedotzero select DVD⁴ [short films]</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-1039</unitid>
+                        <unittitle>Beautiful world</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 DVD-104</unitid>
+                        <unittitle>Carrizo-Parkfield diaries a project</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>McPhee, Christina.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2009">2009</unitdate>
+                        <unitid>Archives 8200 DVD-1040</unitid>
+                        <unittitle>Willie Doherty</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2009">2009</unitdate>
+                        <unitid>Archives 8200 DVD-1041</unitid>
+                        <unittitle>Claire Barclay, openwide : exhibition 7 February-12 April 2009</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-1042</unitid>
+                        <unittitle>CyberArts 2006 international compendium Prix Ars Electronica 2006</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 DVD-1043</unitid>
+                        <unittitle>Vida 9.0 Arte y Vida Artificial</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Concurso Internacional de Arte y Vida Artificial (2006)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 DVD-105</unitid>
+                        <unittitle>Sub_scapeProof a machinima</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Waterson, Sarah.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-106</unitid>
+                        <unittitle>Bystander documentation April 2006</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Richards, Kate.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 DVD-108</unitid>
+                        <unittitle>River of many sides excerpts from the performance, Chicago 2004</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Barbier, Annette.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 DVD-109</unitid>
+                        <unittitle>Annette Barbier</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Barbier, Annette.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 DVD-110</unitid>
+                        <unittitle>When it hit me multimedia design graduand exhibition, 2004</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Monash University. Faculty of Art &amp; Design.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate>200u</unitdate>
+                        <unitid>Archives 8200 DVD-112</unitid>
+                        <unittitle>Bits of memory</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Quintanilla, Grace.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 DVD-113</unitid>
+                        <unittitle>Nací mujer = Born a woman whatever that means</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Quintanilla, Grace.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-114</unitid>
+                        <unittitle>Guantanamo! liberty and justice for all</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 DVD-114a</unitid>
+                        <unittitle>Guantanamo now! liberty and justice for all : work-in-progress, Spring, 2005, Cornell University</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-115</unitid>
+                        <unittitle>One day in 1999 an epic of ordinary life</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tashiro, C. S. (Charles Shiro)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-116</unitid>
+                        <unittitle>Etc., etc., etc. a digital video</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tashiro, C. S. (Charles Shiro)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-117</unitid>
+                        <unittitle>4X selected digital short subjects</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tashiro, C. S. (Charles Shiro)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-118</unitid>
+                        <unittitle>Day of the act</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tashiro, C. S. (Charles Shiro)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-119</unitid>
+                        <unittitle>Naked bastard</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Tashiro, C. S. (Charles Shiro)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2000">2000</unitdate>
+                        <unitid>Archives 8200 DVD-1194</unitid>
+                        <unittitle>Around and about : a performative view</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 DVD-1451</unitid>
+                        <unittitle>Somewhere, everywhere, nowhere</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-152</unitid>
+                        <unittitle>Reline a video artist DVD compilation</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 DVD-153</unitid>
+                        <unittitle>Latent figure protocol</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Vanouse, Paul.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-154</unitid>
+                        <unittitle>PED. Chongqing, 2006</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Vanouse, Paul.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-155</unitid>
+                        <unittitle>Exchange program</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Mandiberg, Michael.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate>200u</unitdate>
+                        <unitid>Archives 8200 DVD-156</unitid>
+                        <unittitle>Queensbridge wind power</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-157</unitid>
+                        <unittitle>Memoires of a cyborg complete video set, selected images</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>McPhee, Christina.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 DVD-158</unitid>
+                        <unittitle>Reynald Drouhin : frags</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-159</unitid>
+                        <unittitle>Noise driven ambient audio and visuals</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate>200u</unitdate>
+                        <unitid>Archives 8200 DVD-160</unitid>
+                        <unittitle>DC 9/11 : the evildoers' remix</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>MTAA (Group of artists)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 DVD-161</unitid>
+                        <unittitle>Calling to mind</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Thorington, Helen.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-162</unitid>
+                        <unittitle>Lovemad</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Onomé, Ekeh.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-163</unitid>
+                        <unittitle>Title TK : notes, 1974-1992</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Kuntzel, Thierry</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 DVD-164</unitid>
+                        <unittitle>Amplitude of chance : the horizon of occurrences</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Sato, Minoru</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 DVD-165</unitid>
+                        <unittitle>(Dis) locations</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1999">1999</unitdate>
+                        <unitid>Archives 8200 DVD-166</unitid>
+                        <unittitle>Conceiving Ada</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Archives 8200 DVD-167</unitid>
+                        <unittitle>Tenderly yours</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Horvath, Peter J.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1997">1997</unitdate>
+                        <unitid>Archives 8200 DVD-168</unitid>
+                        <unittitle>Postcard from Tunis</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Pryor, Sally.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-185</unitid>
+                        <unittitle>Notes towards the complete works of Shakespeare</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 DVD-187</unitid>
+                        <unittitle>Coded characters : media art</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Scott, Jill</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-1961-1962</unitid>
+                        <unittitle>Seeing/hearing/speaking</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Iimura, Takahiko</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2003">2003</unitdate>
+                        <unitid>Archives 8200 DVD-574-575, 581-584, 760-762</unitid>
+                        <unittitle>Aspect the chronicle of new media art</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 DVD-585</unitid>
+                        <unittitle>Caterina Davinio</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Davinio, Caterina.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 DVD-586</unitid>
+                        <unittitle>Deke Weaver</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Weaver, Deke.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-587</unitid>
+                        <unittitle>Vida 8.0 arte y vida artificial</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>ARCO (Art fair) (2006 : Madrid, Spain)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-588</unitid>
+                        <unittitle>Mouvement des images</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 DVD-589</unitid>
+                        <unittitle>From a classical position</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Forsythe, William.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-590</unitid>
+                        <unittitle>I do not know what it is I am like</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Rare Books 8200 DVD-737</unitid>
+                        <unittitle>Macht des Wortes = I can't tell you : Xenon for Duisburg</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Holzer, Jenny</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Rare Books 8200 DVD-744</unitid>
+                        <unittitle>Kinema ikon worx</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Archives 8200 DVD-745</unitid>
+                        <unittitle>Ag4 media facades</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 DVD-746</unitid>
+                        <unittitle>Animated painting</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Rare Books 8200 DVD-747</unitid>
+                        <unittitle>Conchita N=amour</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>McPhee, Christina.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Rare Books 8200 DVD-748</unitid>
+                        <unittitle>Eizō sakka hyakunin = Japanese motion graphic creators 2007</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2007">2007</unitdate>
+                        <unitid>Archives 8200 DVD-749</unitid>
+                        <unittitle>Computerfinearts collection, 1997-2007</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1984">1984</unitdate>
+                        <unitid>Rare Books 8200 DVD-750</unitid>
+                        <unittitle>Journal of film and video</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Rare Books 8200 DVD-751</unitid>
+                        <unittitle>Igloo, 4 projects documentation DVD with sound</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Rare Books 8200 DVD-752</unitid>
+                        <unittitle>Rubicon</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Rare Books 8200 DVD-753</unitid>
+                        <unittitle>Reline</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Rare Books 8200 DVD-754</unitid>
+                        <unittitle>SubRosa selected projects, 2000-2005 : six performances and video works</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2005">2005</unitdate>
+                        <unitid>Rare Books 8200 DVD-755</unitid>
+                        <unittitle>Tammy Renée Brackett new work</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Rare Books 8200 DVD-756</unitid>
+                        <unittitle>Disturbance excerpts</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Paris, Bob</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Rare Books 8200 DVD-757</unitid>
+                        <unittitle>Passing :</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2006">2006</unitdate>
+                        <unitid>Rare Books 8200 DVD-758</unitid>
+                        <unittitle>Hatsu Yume First dream</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-98</unitid>
+                        <unittitle>Formula</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Ikeda, Ryoji</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2001">2001</unitdate>
+                        <unitid>Archives 8200 DVD-985</unitid>
+                        <unittitle>Mirrors &amp; smoke an interactive performance in virtual place</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Jones, Philip Mallory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-986</unitid>
+                        <unittitle>Complete artintact komplett CD-ROMagazin interaktiver Kunst, vols. 1-5, 1994-1999</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2004">2004</unitdate>
+                        <unitid>Archives 8200 DVD-987</unitid>
+                        <unittitle>David Rokeby</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Rokeby, David</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 DVD-99</unitid>
+                        <unittitle>Digital snow</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Snow, Michael</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1994">1994</unitdate>
+                        <unitid>Archives 8200 FD1-2</unitid>
+                        <unittitle>Clearing</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Legrady, George</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="1998">1998</unitdate>
+                        <unitid>Archives 8200 V-879</unitid>
+                        <unittitle>Judith Barry installations</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Barry, Judith</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 V-880</unitid>
+                        <unittitle>Vida 5.0</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artist: </emph>Concurso Internacional de Arte y Vida Artificial (2002 : Madrid, Spain)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unitdate normal="2002">2002</unitdate>
+                        <unitid>Archives 8200 V-9368</unitid>
+                        <unittitle>Evolving traditions: artists working in new media</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p><emph render="bold">Artists: </emph>Mark Amerika, Tennessee Rice Dixon, Toni Dove, Troika Ranch</p>
+                    </scopecontent>
+                </c02>
+
+
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

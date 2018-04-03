@@ -1,0 +1,3673 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Transformed with v1v2002_4_cornell.xsl --><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../dtds/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="../styles/style.xsl" ?><ead>
+	<eadheader repositoryencoding="iso15511" relatedencoding="MARC21" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid mainagencycode="nic" countrycode="us" publicid="-//Cornell University::Cornell University Library::Division of Rare and Manuscript Collections//TEXT(US::NIC::RMA00074::Cornell University Board of Trustees records)//EN">RMA00074.xml</eadid>
+
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Cornell University Board of Trustees records, 1865-2001.</titleproper>
+				<titleproper type="sort">Cornell University Board of Trustees records, 1865-2001</titleproper>
+				<author>Compiled by C. Rote, B. Huth et al.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Division of Rare and Manuscript Collections, Cornell University Library</publisher>
+				<date>February 2003</date>
+			</publicationstmt>
+			<notestmt>
+				<note audience="internal">
+					<p/>
+				</note>
+			</notestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Martin Heggestad <date>February 2003</date>
+			</creation>
+		</profiledesc>
+		<revisiondesc>
+			<change encodinganalog="583">
+				<date normal="2007-05-29">2007-05-29</date>
+				<item>converted from EAD 1.0 to EAD 2002 </item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper>Guide to the Cornell University Board Of Trustees Records,<lb/>1865-2001</titleproper>
+			<num>Collection Number: 2-3-74</num>
+			<publisher>Division of Rare and Manuscript Collections <lb/>Cornell University Library</publisher>
+			<list type="deflist">
+				<defitem>
+					<label>Contact Information:</label>
+					<item>Division of Rare and Manuscript Collections<lb/> 2B Carl A. Kroch Library<lb/> Cornell University<lb/> Ithaca, NY 14853<lb/> (607) 255-3530<lb/> Fax: (607) 255-9524<lb/>
+						<extref href="mailto:rareref@cornell.edu">rareref@cornell.edu</extref>
+						<lb/>
+						<extref href="http://rmc.library.cornell.edu">http://rmc.library.cornell.edu</extref>
+						<lb/></item>
+				</defitem>
+				<defitem>
+					<label>Compiled by:</label>
+					<item>C. Rote, B. Huth et al.</item>
+				</defitem>
+				<defitem>
+					<label>EAD encoding:</label>
+					<item>Martin Heggestad, February 2003</item>
+				</defitem>
+				<defitem>
+					<label>Date modified:</label>
+					<item>Jude Corina, March 2017</item>
+				</defitem>
+			</list>
+			<date>© 2002 Division of Rare and Manuscript Collections, Cornell University Library</date>
+		</titlepage>
+	</frontmatter>
+	<archdesc level="collection">
+		<did>
+			<head id="a1">DESCRIPTIVE SUMMARY</head>
+			<unittitle label="Title:" encodinganalog="MARC 245">Cornell University Board of Trustees records, <unitdate type="inclusive" encodinganalog="MARC 245" normal="1865-2001">1865-2001</unitdate>
+			</unittitle>
+			<unitid label="Collection Number:">2-3-74</unitid>
+			<origination label="Creator:">
+				<corpname encodinganalog="MARC 110">Cornell University. Board of Trustees.</corpname>
+			</origination>
+			<physdesc label="Quantity:" encodinganalog="MARC 300">96.4 cubic ft.; 14.4 cubic ft.</physdesc>
+			<physdesc label="Forms of Material:">Minutes and work folders.</physdesc>
+
+			<repository label="Repository:">Division of Rare and Manuscript Collections, Cornell University Library</repository>
+			<abstract label="Abstract:">Minutes and work folders for Board of Trustees and Executive Committee meetings.</abstract>
+			<langmaterial label="Language:">Collection material in <language encodinganalog="041" langcode="eng">English</language>
+			</langmaterial>
+		</did>
+		<scopecontent encodinganalog="MARC 520">
+			<head id="a3">COLLECTION DESCRIPTION</head>
+			<p>Minutes and work folders for Board of Trustees and Executive Committee meetings.</p>
+		</scopecontent>
+		<controlaccess>
+			<head id="a7">SUBJECTS</head>
+			<controlaccess>
+				<head>Names:</head>
+				<corpname encodinganalog="MARC 110">Cornell University.</corpname>
+				<corpname encodinganalog="MARC 610">Cornell University--Administration.</corpname>
+				<corpname encodinganalog="MARC 610">Cornell University--Executive Committee--Board of Trustees.</corpname>
+			</controlaccess>
+		</controlaccess>
+		<descgrp type="admininfo">
+			<head id="a8">INFORMATION FOR USERS</head>
+			<accessrestrict>
+				<head>Access Restrictions:</head>
+				<p>Restricted to permission of office of origin.</p>
+			</accessrestrict>
+			<prefercite>
+				<head>Cite As:</head>
+				<p>Cornell University Board of Trustees records, #2-3-74. Division of Rare and Manuscript Collections, Cornell University Library.</p>
+			</prefercite>
+		</descgrp>
+		<arrangement>
+			<head>SERIES LIST</head>
+			<p>
+				<emph render="bold">
+					<ref target="s1" show="replace" actuate="onrequest">Series I. Trustee Minutes and Work Folders </ref>
+				</emph>
+			</p>
+			<p>
+				<emph render="bold">
+					<ref target="s2" show="replace" actuate="onrequest">Series II. Folders of the Executive Committee and Board of Trustees</ref>
+				</emph>
+			</p>
+			<p>
+				<emph render="bold">
+					<ref target="s3" show="replace" actuate="onrequest">Series III. Photographs</ref>
+				</emph>
+			</p>
+		</arrangement>
+		<relatedmaterial>
+			<head id="a5">RELATED MATERIALS</head>
+			<p>Includes collection #2-5-5.</p>
+			<p>For the published Proceedings of the Board of Trustees of Cornell University see Archives LD1341.A1.</p>
+		</relatedmaterial>
+		<dsc type="combined">
+			<head>CONTAINER LIST</head>
+			<c01 level="series">
+				<did>
+					<unittitle id="s1">Series I. Trustee Minutes and Work Folders</unittitle>
+				</did>
+				<scopecontent>
+					<p>(Note: Boxes 32-43 carry two numbers, as they were numbered 1-12 by the donor)</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box">77</container>
+						<unittitle>Oct. 17, 1865 - June 1872</unittitle>
+
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">78</container>
+						<unittitle>Oct. 1873 -June 1885</unittitle>
+
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">79</container>
+						<unittitle>Oct. 1886 - June 1898 (actually contains 1886-1892)</unittitle>
+
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">80</container>
+						<unittitle>Oct. 1899 - June 1908 (actually contains 1893-1907)</unittitle>
+
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">81</container>
+						<unittitle>Oct. 1909 - June 1911</unittitle>
+
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">82</container>
+						<unittitle>Oct. 1912 - June 1913</unittitle>
+
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">83</container>
+						<unittitle>Oct. 1914 - June 1916</unittitle>
+
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">84</container>
+						<unittitle>Oct. 1917 - 1920?</unittitle>
+
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">1</container>
+						<unittitle>
+							<unitdate normal="1920-07-23/1921-12-17">1920-07-23-1921-12-17</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<unittitle>
+							<unitdate normal="1922-01-07/1923-09-22">1922-01-07-1923-09-22</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">3</container>
+						<unittitle>
+							<unitdate normal="1923-10-12/1925-06-13">1923-10-12-1925-06-13</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">4</container>
+						<unittitle>
+							<unitdate normal="1925-06-15/1927-06-18">1925-06-15-1927-06-18</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<unittitle>
+							<unitdate normal="1927-08-06/1929-06-17">1927-08-06-1929-06-17</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">6</container>
+						<unittitle>
+							<unitdate normal="1929-07-17/1930-10-24">1929-07-17-1930-10-24</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">7</container>
+						<unittitle>
+							<unitdate normal="1930-10-25/1931-12-2">1930-10-25-1931-12-2</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<unittitle>
+							<unitdate>January 16, 1.932 - February 11, 1933</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<unittitle>
+							<unitdate normal="1933-03-17/1934-07-28">1933-03-17-1934-07-28</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<unittitle>
+							<unitdate normal="1934-09-08/1935-10-26">1934-09-08-1935-10-26</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<unittitle>
+							<unitdate normal="1935-11-01/1937-01-30">1935-11-01-1937-01-30</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<unittitle>
+							<unitdate normal="1937-02-18/1938-01-29">1937-02-18-1938-01-29</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">13</container>
+						<unittitle>
+							<unitdate normal="1938-02-10/1939-01-21">1938-02-10-1939-01-21</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<unittitle>
+							<unitdate normal="1939-02-04/1940-01-20">1939-02-04-1940-01-20</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<unittitle>
+							<unitdate normal="1940-02-29/1940-10-25">1940-02-29-1940-10-25</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<unittitle>
+							<unitdate normal="1940-11-07/1941-06-16">1940-11-07-1941-06-16</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">17</container>
+						<unittitle>
+							<unitdate normal="1941-08-12/1942-04-25">1941-08-12-1942-04-25</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<unittitle>
+							<unitdate normal="1942-05-23/1943-03-20">1942-05-23-1943-03-20</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">19</container>
+						<unittitle>
+							<unitdate normal="1943-05-01/1944-06-26">1943-05-01-1944-06-26</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<unittitle>
+							<unitdate normal="1944-09-09/1945-12-15">1944-09-09-1945-12-15</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">21</container>
+						<unittitle>
+							<unitdate normal="1946-01-18/1946-09-9">1946-01-18-1946-09-9</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">22</container>
+						<unittitle>
+							<unitdate normal="1946-10-09/1947-04-26">1946-10-09-1947-04-26</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<unittitle>
+							<unitdate normal="1947-05-17/1947-11-18">1947-05-17-1947-11-18</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">24</container>
+						<unittitle>
+							<unitdate normal="1947-12-16/1948-06-14">1947-12-16-1948-06-14</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">25</container>
+						<unittitle>
+							<unitdate normal="1948-07-24/1949-06-13">1948-07-24-1949-06-13</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<unittitle>
+							<unitdate normal="1949-08-06/1950-09-19">1949-08-06-1950-09-19</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">27</container>
+						<unittitle>
+							<unitdate normal="1950-10-20/1952-03-3">1950-10-20-1952-03-3</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">28</container>
+						<unittitle>
+							<unitdate normal="1952-04-25/1953-08-20">1952-04-25-1953-08-20</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">29</container>
+						<unittitle>
+							<unitdate normal="1953-10-15/1955-04-18">1953-10-15-1955-04-18</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">30</container>
+						<unittitle>
+							<unitdate normal="1955-06-12/1956-04-14">1955-06-12-1956-04-14</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">31</container>
+						<unittitle>
+							<unitdate normal="1956-05-15/1956-06-11">1956-05-15-1956-06-11</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"/>
+						<unittitle>
+							<unitdate>Membership Committee folders, 1933-1964</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">32</container>
+						<unittitle>
+							<unitdate normal="1956-08/1957-09">1956-08-1957-09</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">33</container>
+						<unittitle>
+							<unitdate>October 1957- January 1959</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">34</container>
+						<unittitle>
+							<unitdate normal="1959-02/1960-04">1959-02-1960-04</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">35</container>
+						<unittitle>
+							<unitdate normal="1960-08/1960-12">1960-08-1960-12</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">36</container>
+						<unittitle>
+							<unitdate normal="1961-01/1961-09">1961-01-1961-09</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">37</container>
+						<unittitle>
+							<unitdate normal="1961-10/1962-06">1961-10-1962-06</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">38</container>
+						<unittitle>
+							<unitdate normal="1962-08/1963-04">1962-08-1963-04</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">39</container>
+						<unittitle>
+							<unitdate>May, 1963 - February 1964</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">40</container>
+						<unittitle>
+							<unitdate normal="1964-03/1964-10">1964-03-1964-10</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">41</container>
+						<unittitle>
+							<unitdate>November 1964 - June, 1965</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">42</container>
+						<unittitle>
+							<unitdate>July, 1965 - February 1966</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">43</container>
+						<unittitle>
+							<unitdate>March 1966 - June, 1966.</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">44</container>
+						<unittitle>
+							<unitdate>May, 1969 - October 17-18, 1969</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">45</container>
+						<unittitle>
+							<unitdate>November 18, 1969-April 10-11,1970</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">46</container>
+						<unittitle>
+							<unitdate>May 12, 1970-June, 1970</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">47</container>
+						<unittitle>
+							<unitdate normal="1966-10/1967-03">1966-10-1967-03</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">48</container>
+						<unittitle>
+							<unitdate normal="1967-04/1967-09">1967-04-1967-09</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">49</container>
+						<unittitle>
+							<unitdate normal="1967-10/1968-04">1967-10-1968-04</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">50</container>
+						<unittitle>
+							<unitdate normal="1968-05/1968-11">1968-05-1968-11</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">51</container>
+						<unittitle>
+							<unitdate normal="1968-12/1969-04">1968-12-1969-04</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">52</container>
+						<unittitle>
+							<unitdate>June 6, 1971-January 20,1972 (May 1969-June 1970, see Boxes 44-46)</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">53</container>
+						<unittitle>
+							<unitdate>January 21-22, 1972-July 12, 1972</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">54</container>
+						<unittitle>
+							<unitdate normal="1972-09-20/1973-03-15">1972-09-20-1973-03-15</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">55</container>
+						<unittitle>
+							<unitdate normal="1970-07-21/1971-01-23">1970-07-21-1971-01-23</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">56</container>
+						<unittitle>
+							<unitdate normal="1971-02-16/1971-06-05">1971-02-16-1971-06-05</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle id="s2">Series II. Work Folders of the Executive Committee and Board of Trustees</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="box">57</container>
+						<unitdate>March 16-17, 1973</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">57</container>
+						<unitdate normal="4/18/73">4/18/73</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">57</container>
+						<unitdate normal="5/23/73">5/23/73</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">57</container>
+						<unitdate normal="5/24/73">5/24/73</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">57</container>
+						<unitdate normal="7/19/73">7/19/73</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">57</container>
+						<unitdate normal="9/11/73">9/11/73</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">57</container>
+						<unitdate normal="10/18/73">10/18/73</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">57</container>
+						<unitdate>October 19 - 20, 1973</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate normal="11/15/73">11/15/73</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate normal="12/11/73">12/11/73</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate normal="1/17/74">1/17/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate>January 18-19, 1974</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate normal="2/12/74">2/12/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate normal="3/14/74">3/14/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate normal="4/17/74">4/17/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate normal="5/14/74">5/14/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate normal="6/1/74">6/1/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">58</container>
+						<unitdate normal="6/2/74">6/2/74</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate normal="7/18/74">7/18/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate normal="9/10/74">9/10/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate normal="10/2/74">10/2/74</unitdate>
+						<unittitle>Trustee Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate normal="10/10/74">10/10/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate>October 11-12, 1974</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate normal="11/12/74">11/12/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate normal="12/10/74">12/10/74</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate normal="1/16/75">1/16/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate>January 17-18, 1975</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate normal="2/11/75">2/11/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">59</container>
+						<unitdate normal="3/13/75">3/13/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate>March 14-15, 1975</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate normal="4/8/75">4/8/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate normal="5/14/75">5/14/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate normal="5/31/75">5/31/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate normal="6/1/75">6/1/75</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate normal="7/22/75">7/22/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate normal="9/9/75">9/9/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate normal="10/9/75">10/9/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate>October 10-11, 1975</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">60</container>
+						<unitdate normal="11/11/75">11/11/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">61</container>
+						<unitdate normal="12/9/75">12/9/75</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">61</container>
+						<unitdate normal="1/29/76">1/29/76</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">61</container>
+						<unitdate>January 30-31, 1976, March 18, 1976</unitdate>
+						<unittitle>Board Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">61</container>
+						<unitdate>March 19-20, 1976</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">61</container>
+						<unitdate normal="5/11/76">5/11/76</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">61</container>
+						<unitdate normal="5/26/76">5/26/76</unitdate>
+						<unittitle>EC</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">61</container>
+						<unitdate normal="5/27/76">5/27/76</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">62</container>
+						<unitdate normal="6/30/76">6/30/76</unitdate>
+						<unittitle>Special Mtg./Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">62</container>
+						<unitdate normal="7/28/76">7/28/76</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">62</container>
+						<unitdate normal="9/14/76">9/14/76</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">62</container>
+						<unitdate normal="10/21/76">10/21/76</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">62</container>
+						<unitdate>October 22-23, 1976</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">62</container>
+						<unitdate normal="11/9/76">11/9/76</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">62</container>
+						<unitdate normal="12/14/76">12/14/76</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">62</container>
+						<unitdate normal="1/27/77">1/27/77</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">62</container>
+						<unitdate>January 28-29, 1977</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate normal="2/16/77">2/16/77</unitdate>
+						<unittitle>Special. Mtg./Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate normal="3/17/77">3/17/77</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate>March 18-19, 1977</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate normal="4/12/77">4/12/77</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate normal="5/10/77">5/10/77</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate normal="5/28/77">5/28/77</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate normal="5/29/77">5/29/77</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate normal="7/19/77">7/19/77</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate>September 7, 197?</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">63</container>
+						<unitdate normal="10/6/77">10/6/77</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate>October 7-8, 1977</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate normal="11/9/77">11/9/77</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate normal="12/13/77">12/13/77</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate normal="1/26/78">1/26/78</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate>Jan. 27-28, 1978</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate normal="1978-03-16">1978-03-16</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate>Mar. 17-18, 1978</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate normal="1978-04-11">1978-04-11</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate>9 May, 1978</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">64</container>
+						<unitdate normal="1978-05-27">1978-05-27</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate>May 28, 1978 (#1)</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate>May 28, 1978 (#2)</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate normal="1978-07-18">1978-07-18</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate normal="1978-09-12">1978-09-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate normal="1978-10-19">1978-10-19</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate>Oct. 20-21, 1978</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate normal="1978-11-14">1978-11-14</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate normal="1978-12-12">1978-12-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate normal="1979-01-18">1979-01-18</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate>Jan. 19-20, 1979</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">65</container>
+						<unitdate normal="1979-03-15">1979-03-15</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate>Mar. 16-17, 1979</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate>1 May, 1979</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate normal="1979-05-27">1979-05-27</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate normal="1979-05-28">1979-05-28</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate normal="1979-07-17">1979-07-17</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate normal="1979-09-11">1979-09-11</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate normal="1979-10-11">1979-10-11</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate>Oct. 12-13, 1979</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate normal="1979-11-13">1979-11-13</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate normal="1979-12-10">1979-12-10</unitdate>
+						<unittitle>Trustee Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">66</container>
+						<unitdate normal="1979-12-10">1979-12-10</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate normal="1980-01-24">1980-01-24</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate>Jan. 25-26, 1980</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate normal="1980-03-06">1980-03-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate>Mar. 7-8, 1980</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate normal="1980-04-29">1980-04-29</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate normal="1980-05-25">1980-05-25</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate normal="1980-05-26">1980-05-26</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate>9 June, 1980</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate>8 July, 1980</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate normal="1980-09-9">1980-09-9</unitdate>
+						<unittitle>Trustee Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate normal="1980-09-9">1980-09-9</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">67</container>
+						<unitdate>Oct. 17-18, 1980</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate normal="1980-10-16">1980-10-16</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate normal="1980-11-11">1980-11-11</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate normal="1980-12-9">1980-12-9</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate normal="1981-01-22">1981-01-22</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate>Jan. 23-24, 1981</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate normal="1981-03-26">1981-03-26</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate>Mar. 27-28, 1981</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate normal="1981-05-30">1981-05-30</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate>Apr. 28-29, 1982</unitdate>
+						<unittitle>Cornell Trustees/ SUNY Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate>5 May, 1981</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">68</container>
+						<unitdate normal="1981-05-30">1981-05-30</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate normal="1981-07-14">1981-07-14</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate>Sept. 14-15, 1981</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate normal="1981-09-15">1981-09-15</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate normal="1981-10-29">1981-10-29</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate>Oct. 29-31, 1981</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate normal="1981-12-08">1981-12-08</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate normal="1982-01-28">1982-01-28</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate normal="1982-01-28">1982-01-28</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate>Jan. 29-30, 1092</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate normal="1982-03-25">1982-03-25</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate normal="1982-03-26">1982-03-26</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">69</container>
+						<unitdate normal="1982-04-27">1982-04-27</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-01">1985-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-03">1985-03</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-03">1985-03</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-04">1985-04</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-04">1985-04</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-05">1985-05</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-07">1985-07</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-09">1985-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-10">1985-10</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1985-12">1985-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-01">1986-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-01">1986-01</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-03">1986-03</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-03">1986-03</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-05">1986-05</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-05">1986-05</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-09">1986-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-10">1986-10</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unittitle>Full Professor Write Ups (Chron. Copies)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-12">1986-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">70</container>
+						<unitdate normal="1986-10">1986-10</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1987-01">1987-01</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1987-01">1987-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1987-03">1987-03</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1987-04">1987-04</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1987-05">1987-05</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1987-06">1987-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1987-09">1987-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1987-10">1987-10</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1987-12">1987-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1988-01">1988-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1988-03">1988-03</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1988-05">1988-05</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1988-05">1988-05</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate>July 88</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1988-09">1988-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1988-10">1988-10</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1988-10">1988-10</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">71</container>
+						<unitdate normal="1988-12">1988-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1989-01">1989-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1989-03">1989-03</unitdate>
+						<unittitle>Board of Trustees/Exec. Comm.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1989-05">1989-05</unitdate>
+						<unittitle>Board of Trustees/Exec. Comm.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1989-06">1989-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1989-09">1989-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1989-10">1989-10</unitdate>
+						<unittitle>Board of Trustees/Exec. Comm.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1990">1990</unitdate>
+						<unittitle>Full Professor Promotions</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1990-01">1990-01</unitdate>
+						<unittitle>Board of Trustees/Exec. Comm.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1990-03">1990-03</unitdate>
+						<unittitle>Board of Trustees/Exec. Comm.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1990-05">1990-05</unitdate>
+						<unittitle>Board of Trustees/Exec. Comm.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1990-06">1990-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1990-09">1990-09</unitdate>
+						<unittitle>Board of Trustees/Exec. Comm.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1990-12">1990-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1991">1991</unitdate>
+						<unittitle>Full Professor Promotions</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1991-01">1991-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1991-03">1991-03</unitdate>
+						<unittitle>Board of Trustees/Exec. Comm.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1991-05">1991-05</unitdate>
+						<unittitle>Board of Trustees/Exec. Comm.</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1991-06">1991-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">72</container>
+						<unitdate normal="1991-09">1991-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate normal="1982-05-29">1982-05-29</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate normal="1982-05-29">1982-05-29</unitdate>
+						<unittitle>Board of Trustees, file I</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate normal="1982-05-29">1982-05-29</unitdate>
+						<unittitle>Board of Trustees, file II</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate normal="1982-07-13">1982-07-13</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate>Sept. 13-14, 1982</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate normal="1982-09-14">1982-09-14</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate normal="1982-10-21">1982-10-21</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate>Oct. 22-23, 1982</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate>Dec.'7, 1982</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">73</container>
+						<unitdate normal="1982-12-07">1982-12-07</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate normal="1983-01-27">1983-01-27</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate>Jan. 28-29, 1983</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate normal="1983-03-24">1983-03-24</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate>Mar. 25-26, 1983</unitdate>
+						<unittitle>Board of Trustees ,</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate normal="1983-04-26">1983-04-26</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate normal="1983-04-26">1983-04-26</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate normal="1983-05-28">1983-05-28</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate normal="1983-05-28">1983-05-28</unitdate>
+						<unittitle>Board of Trustees, file I</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate normal="1983-05-28">1983-05-28</unitdate>
+						<unittitle>Board of Trustees, file II</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate normal="1983-07-12">1983-07-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">74</container>
+						<unitdate normal="1983-09-13">1983-09-13</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">75</container>
+						<unitdate normal="1983-10-06">1983-10-06</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">75</container>
+						<unitdate>Oct. 7-8, 1983</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">75</container>
+						<unitdate normal="1983-12-06">1983-12-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">75</container>
+						<unitdate>Jan. 27-28, 1984</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">75</container>
+						<unitdate normal="1984-02-18">1984-02-18</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">75</container>
+						<unitdate normal="1984-03-22">1984-03-22</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">75</container>
+						<unitdate normal="1984-03-23">1984-03-23</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">75</container>
+						<unitdate normal="1984-05-26">1984-05-26</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">75</container>
+						<unitdate normal="1984-05-26">1984-05-26</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1984-07-10">1984-07-10</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1984-07-23">1984-07-23</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1984-09-11">1984-09-11</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1984-09-11">1984-09-11</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1984-10-18">1984-10-18</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate>Oct. 19-20, 1984</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1984-10-31">1984-10-31</unitdate>
+						<unittitle>Special meeting</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1984-12-11">1984-12-11</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1985-01-11">1985-01-11</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate>Jan. 25-26, 1985</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1985-03-28">1985-03-28</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate>Mar. 29-30, 1985</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate normal="1985-04-23">1985-04-23</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate>1 June, 1985</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">76</container>
+						<unitdate>1 June, 1985</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">77</container>
+						<unitdate>Oct. 17, 1865 - June 1872</unitdate>
+						<unittitle>Board of Trustees Minutes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">78</container>
+						<unitdate>Oct. 1873 -June 1885</unitdate>
+						<unittitle>Board of Trustees Minutes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">79</container>
+						<unitdate normal="1886-10/1898-06">1886-10-1898-06</unitdate>
+						<unittitle>Board of Trustees Minutes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">80</container>
+						<unitdate normal="1899-10/1908-06">1899-10-1908-06</unitdate>
+						<unittitle>Board of Trustees Minutes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">81</container>
+						<unitdate normal="1909-10/1911-06">1909-10-1911-06</unitdate>
+						<unittitle>Board of Trustees Minutes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">82</container>
+						<unitdate>Oct. 1912 -June 1913</unitdate>
+						<unittitle>Board of Trustees Minutes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">83</container>
+						<unitdate normal="1914-10/1916-06">1914-10-1916-06</unitdate>
+						<unittitle>Board of Trustees Minutes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">84</container>
+						<unitdate>Oct. 1917 - 1920?</unitdate>
+						<unittitle>Board of Trustees Minutes</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate>9 July, 1985</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1985-09">1985-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1985-10-10">1985-10-10</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1985-10-10">1985-10-10</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate>Oct. 11- 12, 1985</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1985-10-24">1985-10-24</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1985-12-05">1985-12-05</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1986-01-30">1986-01-30</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1986-01-31">1986-01-31</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1986-03-20">1986-03-20</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1986-03-21">1986-03-21</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1986-05-19">1986-05-19</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">85</container>
+						<unitdate normal="1986-05-31">1986-05-31</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate>May 31 ,1986</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1986-06-26">1986-06-26</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1986-06-26">1986-06-26</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1986-09-04">1986-09-04</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1986-10-16">1986-10-16</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate>Oct. 17-18, 1986</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1986-12-04">1986-12-04</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1986-12-19">1986-12-19</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1987-01-29">1987-01-29</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate>Jan. 30-3 1,1987</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1987-03-20">1987-03-20</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate>Mar. 19-21, 1987</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1987-04-02">1987-04-02</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1987-04-16">1987-04-16</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1987-04-29">1987-04-29</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">86</container>
+						<unitdate normal="1987-05-30">1987-05-30</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="5/30/87">5/30/87</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="1987-06-25">1987-06-25</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="1987-09-10">1987-09-10</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="1987-09-17">1987-09-17</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="1987-10-22">1987-10-22</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="1987-10-22">1987-10-22</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate>Oct. 23-24, 1987</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="1987-12-10">1987-12-10</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="1988-01-28">1988-01-28</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate>Jan. 29-30, 1988</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="1988-02-25">1988-02-25</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">87</container>
+						<unitdate normal="1988-03-15">1988-03-15</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1988-03-16">1988-03-16</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1988-04-20">1988-04-20</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1988-05-28">1988-05-28</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="5/28/88">5/28/88</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate>6 July, 1988</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate>6 July, 1988</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1988-09-08">1988-09-08</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1988-09-28">1988-09-28</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1988-10-13">1988-10-13</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate>Oct. 14-15, 1988</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1988-11-29">1988-11-29</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1988-12-08">1988-12-08</unitdate>
+						<unittitle>Executive Committee (w/DSS)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1988-12-08">1988-12-08</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">88</container>
+						<unitdate normal="1989-01-26">1989-01-26</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate>Jan. 27-28, 1989</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="1989-02-10">1989-02-10</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="1989-02-18">1989-02-18</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="1989-03-16">1989-03-16</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate>Mar. 17-18, 1989</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="1989-04-19">1989-04-19</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="1989-05-27">1989-05-27</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="1989-05-27">1989-05-27</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="1989-06-29">1989-06-29</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="1989-09-07">1989-09-07</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="10/26/89">10/26/89</unitdate>
+						<unittitle>Executive Committee (cancelled)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate>October 27-28, 1989</unitdate>
+						<unittitle>Board</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="11/27/89">11/27/89</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">89</container>
+						<unitdate normal="12/14/89">12/14/89</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="1/20/94">1/20/94</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate>January 21-22, 1994</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="3/17/94">3/17/94</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate>March 17-18, 1994</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="4/21/94">4/21/94</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="5/27/94">5/27/94</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="5/28/94">5/28/94</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate>June 22-23, 1994</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="6/23/94">6/23/94</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="9/8/94">9/8/94</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate>October 21-22, 1994</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="11/21/94">11/21/94</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="12/8/94">12/8/94</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="12/10/94">12/10/94</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="1/26/95">1/26/95</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">90</container>
+						<unitdate normal="1/27/95">1/27/95</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="3/17/95">3/17/95</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="4/20/95">4/20/95</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="5/26/95">5/26/95</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="5/27/95">5/27/95</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="6/27/95">6/27/95</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="9/7/95">9/7/95</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="9/7/95">9/7/95</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate>October 13-14, 1995</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="11/20/95">11/20/95</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="12/7/95">12/7/95</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">91</container>
+						<unitdate normal="2010/2011">2010-2011</unitdate>
+						<unittitle>Board of Trustees Proceedings</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">1</container>
+						<unitdate normal="1996-01">1996-01</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">2</container>
+						<unitdate normal="1996-01">1996-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">3</container>
+						<unitdate normal="1996-03">1996-03</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">4</container>
+						<unitdate normal="3/29/96">3/29/96</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">5</container>
+						<unitdate normal="1996-04">1996-04</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">6</container>
+						<unitdate normal="1996-05">1996-05</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">7</container>
+						<unitdate normal="1996-05">1996-05</unitdate>
+						<unittitle>Subcommittee on Salaries</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">8</container>
+						<unitdate normal="1996-05">1996-05</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">9</container>
+						<unitdate normal="1996-06">1996-06</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">10</container>
+						<unitdate normal="1996-06">1996-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">11</container>
+						<unitdate normal="1996-09">1996-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">12</container>
+						<unitdate normal="1996-09">1996-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">13</container>
+						<unitdate normal="1996-10">1996-10</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">14</container>
+						<unitdate normal="1996-11">1996-11</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">15</container>
+						<unitdate normal="1996-12">1996-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">16</container>
+						<unitdate normal="1997-01">1997-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">17</container>
+						<unitdate normal="1997-03">1997-03</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">18</container>
+						<unitdate normal="1997-04">1997-04</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">19</container>
+						<unitdate normal="1997-05">1997-05</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">20</container>
+						<unitdate normal="1997-06">1997-06</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">93</container>
+						<container type="folder">21</container>
+						<unitdate normal="1997-06">1997-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">1</container>
+						<unitdate normal="1997-09">1997-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">2</container>
+						<unitdate normal="1997-10">1997-10</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">3</container>
+						<unitdate normal="1997-12">1997-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">4</container>
+						<unitdate normal="1997-12">1997-12</unitdate>
+						<unittitle>Executive Commmittee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">5</container>
+						<unitdate normal="1998-01">1998-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">6</container>
+						<unitdate normal="1998-03">1998-03</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">7</container>
+						<unitdate normal="1998-04">1998-04</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">8</container>
+						<unitdate normal="1998-04">1998-04</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">9</container>
+						<unitdate normal="1998-05">1998-05</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">10</container>
+						<unitdate normal="1998-05">1998-05</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">11</container>
+						<unitdate normal="1998-06">1998-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">12</container>
+						<unitdate normal="1998-09">1998-09</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">13</container>
+						<unitdate normal="1998-10">1998-10</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">14</container>
+						<unitdate normal="1998-12">1998-12</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">15</container>
+						<unitdate normal="1999-01">1999-01</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">16</container>
+						<unitdate normal="1999-03">1999-03</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">17</container>
+						<unitdate normal="1999-04">1999-04</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">18</container>
+						<unitdate normal="1999-05">1999-05</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">19</container>
+						<unitdate normal="1999-05">1999-05</unitdate>
+						<unittitle>Board of Trustees</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">20</container>
+						<unitdate normal="1999-06">1999-06</unitdate>
+						<unittitle>Orientation</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">94</container>
+						<container type="folder">21</container>
+						<unitdate normal="1999-06">1999-06</unitdate>
+						<unittitle>Executive Committee</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 1 </container>
+						<unitdate normal="9/9/99">9/9/99</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 2 </container>
+						<unitdate normal="10/9/99">10/9/99</unitdate>
+						<unittitle> Board </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 3 </container>
+						<unitdate normal="12/9/99">12/9/99</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 4 </container>
+						<unitdate>January 28-29, 2000</unitdate>
+						<unittitle> Board </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 5 </container>
+						<unitdate normal="1/28/00">1/28/00</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 6 </container>
+						<unitdate normal="2/1/00">2/1/00</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 7 </container>
+						<unitdate normal="3/10/00">3/10/00</unitdate>
+						<unittitle> Board </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 8 </container>
+						<unitdate normal="4/20/00">4/20/00</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 9 </container>
+						<unitdate normal="5/26/00">5/26/00</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 10 </container>
+						<unitdate normal="5/27/00">5/27/00</unitdate>
+						<unittitle> Board </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 11 </container>
+						<unitdate>June 21-22, 2000</unitdate>
+						<unittitle> Orientation </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 12 </container>
+						<unitdate normal="6/22/00">6/22/00</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 13 </container>
+						<unitdate normal="9/7/00">9/7/00</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 14 </container>
+						<unitdate>October 27-28, 2000</unitdate>
+						<unittitle> Board </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 15 </container>
+						<unitdate normal="10/27/00">10/27/00</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 16 </container>
+						<unitdate normal="12/7/00">12/7/00</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 17 </container>
+						<unitdate>January 26-27, 2001</unitdate>
+						<unittitle> Board </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 18 </container>
+						<unitdate normal="1/16/01">1/16/01</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 19 </container>
+						<unitdate normal="3/9/01">3/9/01</unitdate>
+						<unittitle> Board </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 20 </container>
+						<unitdate normal="4/19/01">4/19/01</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 21 </container>
+						<unitdate normal="5/25/01">5/25/01</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 22 </container>
+						<unitdate>May 25-26, 2001</unitdate>
+						<unittitle> Board </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 95 </container>
+						<container type="folder"> 23 </container>
+						<unitdate normal="6/21/01">6/21/01</unitdate>
+						<unittitle> Ex Com </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle id="s3">Series III. Photographs</unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">1</container>
+						<unittitle>Walker Cislery, Chairman</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">2</container>
+						<unittitle>John Collyer, Chairman</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">3</container>
+						<unittitle>Arthur Dean, Chairman</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">4</container>
+						<unittitle>Mary Honor Donlon, Vice-Chairman</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">5</container>
+						<unittitle>Robert Purcel, Chairman (1968-1978)</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">6</container>
+						<unittitle>Ellis Robison and Neal Stamp</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">7</container>
+						<unittitle>Neal Stamp</unittitle>
+						<unitdate normal="1976">1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">8</container>
+						<unittitle>Cornell Presidents Perkins, Malott, Corson, Rhodes, &amp; Rawlings</unittitle>
+						<unitdate normal="1995">1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">9</container>
+						<unittitle>Cornell Presidents Rhodes, Corson, Perkins, &amp; Malott</unittitle>
+						<unitdate normal="1977">1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">10</container>
+						<unittitle>Board of Trustees</unittitle>
+						<unitdate normal="1969">1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">11</container>
+						<unittitle>Group Shots</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">92</container>
+						<container type="folder">12</container>
+						<unittitle>Untitled</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="map-case"/>
+						<container type="folder">1</container>
+						<unittitle>Malott, Perkins, Carson, Rhodes at a dinner in Willard Straight Hall to celebrate Dale Corson's 80th birthday</unittitle>
+						<unitdate normal="1994">1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="map-case"/>
+						<container type="folder">1</container>
+						<unittitle>Aerial view of campus</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="map-case"/>
+						<container type="folder">1</container>
+						<unittitle>Oversize Photo of the Board of Trustees</unittitle>
+						<unitdate normal="1959">1959</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="map-case"/>
+						<container type="folder">1</container>
+						<unittitle>Inauguration of Frank Rhodes as 9th President</unittitle>
+						<unitdate normal="1977-11">1977-11</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>
